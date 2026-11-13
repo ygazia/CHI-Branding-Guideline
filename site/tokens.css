@@ -1,0 +1,17 @@
+/* CHI Brand Guidelines: generated from tokens.json */
+@font-face{font-family:"Archivo";src:url("fonts/Archivo-Variable.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Archivo";src:url("fonts/Archivo-Italic-Variable.woff2") format("woff2");font-weight:100 900;font-style:italic;font-display:swap}
+:root,[data-theme="light"]{--chi-red:#d9212d;--chi-black:#100f0d;--chi-white:#ffffff;--brand:#d9212d;--on-brand:#ffffff;--brand-strong:#b01822;--brand-text:#c4161f;--brand-tint:#fcebec;--surface:#ffffff;--surface-raised:#f6f4f2;--surface-sunken:#ece9e6;--ink:#100f0d;--ink-muted:#5c5753;--line:#d8d3ce;--line-strong:#8a847f;--focus:#100f0d;--silk:#eadfcf;--on-silk:#100f0d;--heat-low:#f2b441;--heat-mid:#ee7a2b;--heat-high:#d9212d;--on-heat:#100f0d;--success:#0b6b58;--caution:#8a5300;--error:#c4161f;color-scheme:light}
+[data-theme="dark"]{--chi-red:#d9212d;--chi-black:#100f0d;--chi-white:#ffffff;--brand:#d9212d;--on-brand:#ffffff;--brand-strong:#b01822;--brand-text:#ff7a80;--brand-tint:#3a1418;--surface:#100f0d;--surface-raised:#1c1a18;--surface-sunken:#080807;--ink:#ffffff;--ink-muted:#b5afa9;--line:#3a3633;--line-strong:#8a847f;--focus:#ffffff;--silk:#eadfcf;--on-silk:#100f0d;--heat-low:#f2b441;--heat-mid:#ee7a2b;--heat-high:#d9212d;--on-heat:#100f0d;--success:#5fd1b8;--caution:#f2b441;--error:#ff7a80;color-scheme:dark}
+:root{--space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-6:24px;--space-8:32px;--space-12:48px;--space-16:64px;--space-24:96px;--radius-none:0px;--radius-soft:2px;--radius-full:9999px;--font-sans:"Archivo", "Helvetica Neue", Helvetica, Arial, sans-serif}
+.display-xl{font-family:var(--font-sans);font-size:72px;line-height:68px;font-weight:900;letter-spacing:-0.02em}
+.display-l{font-family:var(--font-sans);font-size:48px;line-height:48px;font-weight:900;letter-spacing:-0.015em}
+.headline{font-family:var(--font-sans);font-size:32px;line-height:36px;font-weight:800;letter-spacing:-0.01em}
+.title{font-family:var(--font-sans);font-size:22px;line-height:28px;font-weight:700}
+.descriptor-l{font-family:var(--font-sans);font-size:28px;line-height:32px;font-weight:300;letter-spacing:0.06em}
+.descriptor-s{font-family:var(--font-sans);font-size:13px;line-height:16px;font-weight:500;letter-spacing:0.14em}
+.lead{font-family:var(--font-sans);font-size:20px;line-height:30px;font-weight:400}
+.body{font-family:var(--font-sans);font-size:16px;line-height:26px;font-weight:400}
+.body-strong{font-family:var(--font-sans);font-size:16px;line-height:26px;font-weight:600}
+.caption{font-family:var(--font-sans);font-size:13px;line-height:18px;font-weight:400}
+.legal{font-family:var(--font-sans);font-size:11px;line-height:16px;font-weight:400}
