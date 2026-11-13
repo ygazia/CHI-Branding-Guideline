@@ -1,0 +1,32 @@
+<!-- @dsCard group="Colour" height=190 -->
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box}html,body{margin:0}
+body{font-family:var(--font-sans);color:var(--ink);background:var(--surface);padding:24px;font-size:13px;line-height:18px}
+.logo{display:block;width:100%;height:auto;overflow:visible}
+.lr{fill:var(--chi-red)}.lk{fill:var(--chi-black)}
+.on-dark .lk{fill:var(--chi-white)}
+.all-white .lr,.all-white .lk{fill:var(--chi-white)}
+.all-black .lr,.all-black .lk{fill:var(--chi-black)}
+.cap{font:500 11px/16px var(--font-sans);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-muted);margin:8px 0 0}
+.g-white{background:var(--chi-white)}.g-red{background:var(--chi-red)}.g-black{background:var(--chi-black)}.g-silk{background:var(--silk)}
+.edge{outline:1px solid var(--line);outline-offset:-1px}
+</style>
+</head><body>
+<style>
+.s{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}
+.b{padding:16px;min-height:104px;display:flex;flex-direction:column;justify-content:space-between;gap:12px}
+.b b{font-size:22px;line-height:26px;font-weight:800;font-variant-numeric:tabular-nums}
+.b small{font:500 11px/16px var(--font-sans);letter-spacing:.14em;text-transform:uppercase}
+.lo{background:var(--heat-low);color:var(--on-heat)}.mi{background:var(--heat-mid);color:var(--on-heat)}.hi{background:var(--heat-high);color:var(--on-brand)}
+p{margin:12px 0 0;color:var(--ink-muted)}
+@media(max-width:480px){.s{grid-template-columns:1fr}}
+</style>
+<div class="s">
+<div class="b lo"><small>Fine or fragile hair</small><b>300&ndash;350&deg;F<br>150&ndash;175&deg;C</b></div>
+<div class="b mi"><small>Medium hair</small><b>350&ndash;400&deg;F<br>175&ndash;205&deg;C</b></div>
+<div class="b hi"><small>Coarse or resistant hair</small><b>400&ndash;450&deg;F<br>205&ndash;232&deg;C</b></div>
+</div>
+<p>Example ranges. Use the settings published for each tool.</p>
+</body></html>

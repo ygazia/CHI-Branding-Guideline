@@ -1,0 +1,10 @@
+{"v":3,"layout":"files","createdOnFiles":{"v":1,"at":"2026-11-13T14:55:24Z"},"title":"CHI Brand Guidelines","namespace":"CHI","libraries":[],"sections":{},"groups":["Logos"],
+"assetGroups":{"Logos":{"name":"Logos","tile":"l","order":["chi-mark-red.svg","chi-mark-white.svg","chi-mark-black.svg","chi-infra-lockup-color.svg","chi-infra-lockup-reversed.svg","chi-infra-lockup-white.svg","chi-infra-lockup-black.svg"],"files":{
+"chi-mark-red.svg":{"name":"chi-mark-red.svg","blob":"303494ff1c03072183787bc944d50322","size":4721,"type":"image/svg+xml"},
+"chi-mark-black.svg":{"name":"chi-mark-black.svg","blob":"7562feba48cca4370e9c9a7cc4c0df4f","size":4721,"type":"image/svg+xml"},
+"chi-mark-white.svg":{"name":"chi-mark-white.svg","blob":"1b9a74de2a30ee5fecad65f72443e367","size":4721,"type":"image/svg+xml"},
+"chi-infra-lockup-color.svg":{"name":"chi-infra-lockup-color.svg","blob":"67ca818461fcc3e88b3ebdcb1b89fd99","size":10535,"type":"image/svg+xml"},
+"chi-infra-lockup-reversed.svg":{"name":"chi-infra-lockup-reversed.svg","blob":"c187f2073f3ea0e5b434f854a75bf5d1","size":10535,"type":"image/svg+xml"},
+"chi-infra-lockup-black.svg":{"name":"chi-infra-lockup-black.svg","blob":"bed02fe37117587090c80dd100387066","size":10493,"type":"image/svg+xml"},
+"chi-infra-lockup-white.svg":{"name":"chi-infra-lockup-white.svg","blob":"726b197144a7b100d2553f505c44cce3","size":10493,"type":"image/svg+xml"}}}},
+"blobs":{},"docs":{"sections":[]},"lastChange":{"by":"Claude","at":"2026-11-13T14:55:24Z","via":"Claude Code","note":"First version of the CHI brand guidelines."}}
